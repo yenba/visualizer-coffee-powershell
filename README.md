@@ -4,9 +4,9 @@ Run this Powershell script to export all of your shot data from [visualizer.coff
 
 ## Prerequisites
 
-- Visualizer Account
+- **Visualizer Account**
     - Sign up at [visualizer.coffee](http://visualizer.coffee)
-- Powershell 7+
+- **Powershell 7+**
     - :warning: **Warning:** Does not work in Powershell 5.1 or below!
 
 ## Instructions
